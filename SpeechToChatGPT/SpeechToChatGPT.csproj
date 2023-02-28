@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ChatGPT.Net" Version="1.1.5" />
     <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.25.0" />
   </ItemGroup>
 
